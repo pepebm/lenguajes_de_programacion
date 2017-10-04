@@ -1,1 +1,3 @@
-# lenguajes_de_programacion
+# Lenguajes de Programacion
+Programacion Funcional con Haskell
+Metaprogramacion en C++
